@@ -1,2 +1,5 @@
 # Tetris-CLI
-Tetris game in Linux command line.
+Tetris game for Linux command line written in Go and Python.
+
+# Prerequisite
+- readchar library (for python version): ```pip install readchar```
